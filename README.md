@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yasmeenragheb/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/yasmeenragheb/LeetCode/tree/master/0027-remove-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yasmeenragheb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/yasmeenragheb/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yasmeenragheb/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/yasmeenragheb/LeetCode/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yasmeenragheb/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
