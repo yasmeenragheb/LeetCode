@@ -1,5 +1,6 @@
 /* Write your T-SQL query statement below */
-select email
+select email as Email
+from (select  email, count(*) as records
 from person
-group by email
-having count(*)>1
+group by email) a
+where records>1
